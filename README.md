@@ -1,17 +1,30 @@
 ![1361662](https://github.com/user-attachments/assets/bb4ef8ff-892a-49a8-bdb5-c6fbbca14083)
 
-Hi there 👋
+# Hi there 👋  
 I'm Rafael Mattei
 
-**rafaelrmattei/rafaelrmattei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a front-end developer focused on building modern and high-performance interfaces using technologies like React, Next.js and TypeScript.  
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on
+- Personal projects to reinforce my React + Next.js skills
+- Exploring how to apply AI tools to improve front-end development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱 Currently learning
+- React ecosystem (Next.js, Remix, TailwindCSS)
+- Performance and accessibility best practices
+- Basics of AI and how it integrates with web apps
+
+## 🤝 I'm looking for
+- My first professional opportunity as a front-end developer
+- Teams and projects focused on modern web development
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/rafaelrmattei)
+- [GitHub](https://github.com/rafaelrmattei)
+
+## ⚡ Fun (but useful) fact
+- In addition to my love for technology, I am an excellent cook and I look for people to barbecue and talk about programming.
+
+---
+
+Feel free to check out my repositories or reach out if you’d like to connect!
