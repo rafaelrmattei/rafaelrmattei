@@ -1,6 +1,8 @@
-## Hi there 👋
+![1361662](https://github.com/user-attachments/assets/bb4ef8ff-892a-49a8-bdb5-c6fbbca14083)
 
-<!--
+Hi there 👋
+I'm Rafael Mattei
+
 **rafaelrmattei/rafaelrmattei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
