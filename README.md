@@ -20,7 +20,8 @@ I’m a front-end developer focused on building modern and high-performance inte
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/rafaelrmattei)
-- [GitHub](https://github.com/rafaelrmattei)
+- [Instagram](https://www.instagram.com/rafaa.mattei/)
+- [Whatsapp](https://wa.me/5541988362556)
 
 ## ⚡ Fun (but useful) fact
 - In addition to my love for technology, I am an excellent cook and I look for people to barbecue and talk about programming.
