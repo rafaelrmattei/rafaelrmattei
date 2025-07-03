@@ -25,7 +25,7 @@ I’m a front-end developer focused on building modern and high-performance inte
 - [LinkedIn](https://www.linkedin.com/in/rafaelrmattei)
 - [Instagram](https://www.instagram.com/rafaa.mattei/)
 - [Whatsapp](https://wa.me/5541988362556)
-- 
+  
 ---
 
 Feel free to check out my repositories or reach out if you’d like to connect!
